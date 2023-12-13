@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Itim';
+    color: white;
+    margin: 30px;
+}
+
+.rowHeader {
+    display: flex;
+    flex-direction: row;
+    text-align: right;
+    margin: 15px;
+}
+
+.mainText {
+    max-width: 100vh;
+    text-align: center;
+}
