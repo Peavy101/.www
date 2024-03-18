@@ -60,6 +60,7 @@ li {
 
 .showText {
     padding: 15px;
+    flex-direction: column;
 }
 
 .rightSide {
