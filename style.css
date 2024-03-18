@@ -5,6 +5,10 @@ body {
     background-color: black;
 }
 
+div {
+    display: flex;
+}
+
 main {
     display: flex;
     flex-direction: column;
