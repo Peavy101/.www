@@ -19,6 +19,11 @@ main {
     margin: 30px;
 }
 
+a {
+    font-size: large;
+    padding: 1vh;
+}
+
 .rowHeader {
     display: flex;
     flex-direction: row;
